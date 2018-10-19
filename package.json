@@ -1,0 +1,19 @@
+{
+  "name": "get-idle-port",
+  "version": "1.0.0",
+  "description": "Detect from a specified port number, increase/decrease it until find a idle port number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krimeshu/get-idle-port.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krimeshu/get-idle-port/issues"
+  },
+  "homepage": "https://github.com/krimeshu/get-idle-port#readme"
+}
